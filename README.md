@@ -9,3 +9,4 @@ Below is the list of my current projects:
 ## [Rust MySQL](/rust-mysql/)
    [Master Branch](https://github.com/silent001/rust-mysql/tree/master)  
    [Pre-Alpha Branch](https://github.com/silent001/rust-mysql/tree/staging)  
+* * *
